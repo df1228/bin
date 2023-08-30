@@ -5,9 +5,9 @@ import (
 	"os"
 
 	"github.com/apex/log"
+	"github.com/df1228/bin/pkg/config"
+	"github.com/df1228/bin/pkg/providers"
 	"github.com/fatih/color"
-	"github.com/marcosnils/bin/pkg/config"
-	"github.com/marcosnils/bin/pkg/providers"
 	"github.com/spf13/cobra"
 )
 

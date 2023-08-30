@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/marcosnils/bin/pkg/config"
-	"github.com/marcosnils/bin/pkg/providers"
+	"github.com/df1228/bin/pkg/config"
+	"github.com/df1228/bin/pkg/providers"
 )
 
 type mockProvider struct {

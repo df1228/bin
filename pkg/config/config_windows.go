@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/apex/log"
-	"github.com/marcosnils/bin/pkg/options"
+	"github.com/df1228/bin/pkg/options"
 )
 
 // getDefaultPath reads the user's PATH variable

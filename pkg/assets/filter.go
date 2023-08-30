@@ -10,8 +10,8 @@ import (
 	"strings"
 
 	"github.com/apex/log"
-	"github.com/marcosnils/bin/pkg/options"
-	bstrings "github.com/marcosnils/bin/pkg/strings"
+	"github.com/df1228/bin/pkg/options"
+	bstrings "github.com/df1228/bin/pkg/strings"
 	zlog "github.com/rs/zerolog/log"
 )
 

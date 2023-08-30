@@ -4,8 +4,8 @@ import (
 	"os"
 
 	"github.com/apex/log"
-	"github.com/marcosnils/bin/pkg/config"
-	"github.com/marcosnils/bin/pkg/prompt"
+	"github.com/df1228/bin/pkg/config"
+	"github.com/df1228/bin/pkg/prompt"
 	"github.com/spf13/cobra"
 )
 

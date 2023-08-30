@@ -7,8 +7,8 @@ import (
 
 	"github.com/apex/log"
 	"github.com/apex/log/handlers/cli"
+	"github.com/df1228/bin/pkg/config"
 	"github.com/fatih/color"
-	"github.com/marcosnils/bin/pkg/config"
 	"github.com/spf13/cobra"
 
 	"github.com/rs/zerolog"

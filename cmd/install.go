@@ -10,9 +10,9 @@ import (
 	"strings"
 
 	"github.com/apex/log"
-	"github.com/marcosnils/bin/pkg/config"
-	"github.com/marcosnils/bin/pkg/providers"
-	"github.com/marcosnils/bin/pkg/util"
+	"github.com/df1228/bin/pkg/config"
+	"github.com/df1228/bin/pkg/providers"
+	"github.com/df1228/bin/pkg/util"
 	"github.com/rs/zerolog"
 	zlog "github.com/rs/zerolog/log"
 	"github.com/spf13/cobra"

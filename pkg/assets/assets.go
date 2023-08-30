@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/cheggaaa/pb"
-	"github.com/marcosnils/bin/pkg/config"
+	"github.com/df1228/bin/pkg/config"
 	zlog "github.com/rs/zerolog/log"
 )
 
